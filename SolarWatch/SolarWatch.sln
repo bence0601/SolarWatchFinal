@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarWatch", "SolarWatch\SolarWatch.csproj", "{7D5B6147-3E93-48B7-B6C6-045DA273E30F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SolarWatch", "SolarWatch\SolarWatch.csproj", "{7D5B6147-3E93-48B7-B6C6-045DA273E30F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarWatchTest", "SolarWatchTest\SolarWatchTest.csproj", "{3983D496-6AF4-48A4-8145-3E0F4D6DA811}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7D5B6147-3E93-48B7-B6C6-045DA273E30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7D5B6147-3E93-48B7-B6C6-045DA273E30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7D5B6147-3E93-48B7-B6C6-045DA273E30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3983D496-6AF4-48A4-8145-3E0F4D6DA811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3983D496-6AF4-48A4-8145-3E0F4D6DA811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3983D496-6AF4-48A4-8145-3E0F4D6DA811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3983D496-6AF4-48A4-8145-3E0F4D6DA811}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

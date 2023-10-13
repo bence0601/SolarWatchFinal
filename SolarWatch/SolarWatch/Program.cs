@@ -121,3 +121,5 @@ void Cors()
         builder.AllowAnyMethod();
     });
 }
+
+public partial class Program { };
